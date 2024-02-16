@@ -1,13 +1,13 @@
 # ExtractTwitterFollowing
 A script to extract all Twitter handles from the 'Following' page. It will output them in a easy format to copy n paste
 
-# INSTRUCTIONS
-  1.) Make sure you're logged into your Twitter account and on the 'Following' page.
-  2.) Copy the entire script from the twitterFollowingExtractor.js file.
+# INSTRUCTIONS:
+    1.) Make sure you're logged into your Twitter account and on the 'Following' page.
+    2.) Copy the entire script from the twitterFollowingExtractor.js file.
      - Right-click on the page, select 'Inspect Element', then switch to the 'Console' tab.
-  3.) Paste the script into the console (where the blinking cursor is) and press 'Enter'.
-  4.) The script will log all the Twitter handles you're following in the console output.
-  5.) wait
+    3.) Paste the script into the console (where the blinking cursor is) and press 'Enter'.
+    4.) The script will log all the Twitter handles you're following in the console output.
+    5.) wait
 
 # Warnings and Disclaimers:
 
