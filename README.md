@@ -10,8 +10,11 @@ A script to extract all Twitter handles from the 'Following' page. It will outpu
     6.) output them in order from top to bottom.
     5.) wait
 # Additional Notes:
-The testing is very limited and if you encouter any errors please submit any feedback, the output should tell you the number of names logged when done, simply just compare them. 
-there may be an error when an account is unfollowed.
+The testing is very limited and if you encouter any errors please submit any feedback.
+
+The output should tell you the number of names logged when complete, simply just compare them to actual following.
+
+(There may be an error when an account is unfollowed)
 
 # Warnings and Disclaimers:
 
