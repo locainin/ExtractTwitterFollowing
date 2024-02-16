@@ -6,8 +6,12 @@ A script to extract all Twitter handles from the 'Following' page. It will outpu
     2.) Copy the entire script from the extractHandles.js file.
      - Right-click on the page, select 'Inspect Element', then switch to the 'Console' tab.
     3.) Paste the script into the console (where the blinking cursor is) and press 'Enter'.
-    4.) The script will log all the Twitter handles you're following in the console output.
+    4.) The script will log all the Twitter handles you're following in the console.
+    6.) output them in order from top to bottom.
     5.) wait
+# Additional Notes:
+The testing is very limited and if you encouter any errors please submit any feedback, the output should tell you the number of names logged when done, simply just compare them. 
+there may be an error when an account is unfollowed.
 
 # Warnings and Disclaimers:
 
